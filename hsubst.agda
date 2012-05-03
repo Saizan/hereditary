@@ -183,3 +183,5 @@ module Normal (n : ℕ) -- the number of primitive types
       t ◇ (u , us) = napp t u ◇ us
       t ◇ ε        = t
       t ◇ ([ σ ], us) = t n[ σ ] ◇ us
+
+-- Normalization of a first order representation by conversion to Nf and back is omitted for brevity.
