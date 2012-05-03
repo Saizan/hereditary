@@ -17,7 +17,9 @@
     -- along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
     -- Copyright Thorsten Altenkirch and Chantal Keller, 2010
+    --   http://www.lix.polytechnique.fr/~keller/Recherche/hsubst.html
     -- Copyright Andrea Vezzosi, 2012
+    --   https://github.com/Saizan/hereditary
 
 module hsubst where
 
